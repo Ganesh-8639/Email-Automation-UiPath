@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XUeCY4Mp-kCcFP8HImIy4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" CVScreenId="9abffc54-146e-4377-87c4-5c812bba35c3" CvElementArea="103, 294, 531, 47" CvType="InputBox" DesignTimeRectangle="120, 308, 23, 23" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='side' tag='SPAN' /&gt;" Guid="7f9cd6f7-5613-4531-a906-fbbbe1a17bc7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(97) WhatsApp' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9abffc54-146e-4377-87c4-5c812bba35c3" CvElementArea="103, 294, 531, 47" CvType="InputBox" DesignTimeRectangle="156, 307, 479, 25" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" Guid="921b3a62-c785-4c2f-9c36-5a0b94b1ed07" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1b3162f195e59539bad5afb1bd3f1594.png" xmlns="">03xQfxc_qe0aoXiBMuf_XjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (94) WhatsApp",
+  "Type": "Screen",
+  "Id": "g6dMrLVrz0idaHmMc2lpqA",
+  "Reference": "nmdamBtdnkieqkqnXFT4oA/g6dMrLVrz0idaHmMc2lpqA",
+  "ParentRef": "nmdamBtdnkieqkqnXFT4oA/8HAHOhhLL0OnP1KqF_g3Vg",
+  "Created": "2026-01-01T06:34:32.8000242Z",
+  "Updated": "2026-01-01T06:34:32.8000242Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome (97) WhatsApp",
+  "Type": "App",
+  "Id": "kURC6oEZgEm3neZuRKLE4A",
+  "Reference": "nmdamBtdnkieqkqnXFT4oA/kURC6oEZgEm3neZuRKLE4A",
+  "Created": "2025-12-29T12:38:45.8326836Z",
+  "Updated": "2025-12-29T12:38:45.8326836Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

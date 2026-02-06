@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ganesh(You)1130 amstat…",
+  "Type": "Element",
+  "Id": "ZPD0yn1wMUmXD9q1ok_E_A",
+  "Reference": "nmdamBtdnkieqkqnXFT4oA/ZPD0yn1wMUmXD9q1ok_E_A",
+  "ParentRef": "nmdamBtdnkieqkqnXFT4oA/g6dMrLVrz0idaHmMc2lpqA",
+  "Created": "2026-01-01T06:36:58.7870865Z",
+  "Updated": "2026-01-01T06:36:58.7870865Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

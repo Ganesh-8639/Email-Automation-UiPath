@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VGamTG6Gv02gp5rTFkyPxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com/c/69651c60-330c-8324-b7f7-630e787db345" DesignTimeRectangle="652, 410, 960, 315" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' tag='P' /&gt;" Guid="4c623fbb-e121-4599-b86d-c2ba7ff0a98a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Document Summary Request' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e2123ba4c1c830a038b853f6838a407.png" xmlns="">08GvSpHlkBE-x-bxFXW1-IA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

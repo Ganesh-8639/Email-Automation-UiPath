@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nKRuBuQDb0mSe2hzi89X1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com/c/68920a9c-9504-800e-ad7c-6ff9d8ee7316" CVScreenId="03151ed9-82b0-4a50-aff9-2d849fdd36b9" CvElementArea="649, 916, 963, 73" CvType="InputBox" DesignTimeRectangle="717, 938, 777, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='prompt-textarea' tag='P' /&gt;" Guid="d88c257b-5c2a-458d-a79e-585b35f145b6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='my RPA project' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ddfe10ca58c658c6a0e44ea35b9ad560.png" xmlns="">0p6KP6u93zUmxn4Et7rxYsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
